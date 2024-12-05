@@ -1,0 +1,18 @@
+[
+    {
+      "role": "IT Intern",
+      "organisation": "Chrisimm Sentimo Kumon",
+      "startDate": "March 2023",
+      "endDate": "July 2023",
+      "experiences": ["Managed company website using Wix editor", "Made different pubmats and social media contents","Helped in creating the Attendance monitoring system using php"],
+      "imageSrc": "download.jpg"
+    },
+    {
+      "role": "Software Developer Intern",
+      "organisation": "Philippine Statistics Authority",
+      "startDate": "October, 2024",
+      "endDate": "January, 2025",
+      "experiences": ["Studied JavaScript, TypeScript and Go Language", "Attended meetings and workshops"],
+      "imageSrc": "psa.png"
+    }   
+  ]

@@ -1,0 +1,98 @@
+[
+    {
+      "day":"Day 1",
+      "title": "Theme: Christmas",
+      "imageSrc": "day1a.jpg",
+      "description": "Caption: HOHOHO",
+      "taken":"Taken By: Xyrel Genio"
+      
+    },
+    {
+      "day":"Day 1",
+      "title": "Theme: Public Transport Services",
+      "imageSrc": "day1b.jpg",
+      "description": "Caption: On the Way",
+      "taken":"Taken By: Xyrel Genio"
+      
+    },
+    {
+      "day":"Day 2",
+      "title": "Theme: Public Transportation",
+      "imageSrc": "day2a.jpeg",
+      "description": "Caption: Outside of the box",
+      "taken":"Taken By: Vince Allanigue"
+      
+    },
+    {
+      "day":"Day 2",
+      "title": "Theme: Christmas Decor",
+      "imageSrc": "day2b.jpeg",
+      "description": "Caption: Nightlights",
+      "taken":"Taken By: Vince Allanigue"
+      
+    },
+    {
+      "day":"Day 3",
+      "title": "Theme: Christmas",
+      "imageSrc": "day3a.jpeg",
+      "description": "Caption: My view right now",
+      "taken":"Taken By: Xyrel Genio"
+      
+    },
+    {
+      "day":"Day 3",
+      "title": "Theme: Skyline",
+      "imageSrc": "day3b.jpeg",
+      "description": "Caption: People who love to eat are always the best people",
+      "taken":"Taken By: Xyrel Genio"
+      
+    },
+    {
+      "day":"Day 4",
+      "title": "Theme: Plant",
+      "imageSrc": "day4a.jpg",
+      "description": "Caption: Feeling Minimalist",
+      "taken":"Taken By: Xyrel Genio"
+      
+    },
+    {
+      "day":"Day 4",
+      "title": "Theme: Christmas Decor",
+      "imageSrc": "day4b.jpg",
+      "description": "Caption: Circle of light",
+      "taken":"Taken By: Xyrel Genio"
+      
+    },
+    {
+      "day":"Day 5",
+      "title": "Theme: Building",
+      "imageSrc": "day5a.jpg",
+      "description": "Caption: Constructivism",
+      "taken":"Taken By: Xyrel Genio"
+      
+    },
+    {
+      "day":"Day 5",
+      "title": "Theme: Nature",
+      "imageSrc": "day5b.jpg",
+      "description": "Caption: Stop and smell the roses",
+      "taken":"Taken By: Xyrel Genio"
+      
+    },
+    {
+      "day":"Day 6",
+      "title": "Theme: Flower",
+      "imageSrc": "day6a.jpg",
+      "description": "Caption: Capturing petals and moments",
+      "taken":"Taken By: Xyrel Genio"
+      
+    },
+    {
+      "day":"Day 6",
+      "title": "Theme: Office",
+      "imageSrc": "day6b.jpg",
+      "description": "Caption: After work",
+      "taken":"Taken By: Xyrel Genio"
+      
+    }
+  ]

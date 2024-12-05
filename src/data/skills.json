@@ -1,0 +1,47 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "Dart",
+      "imageSrc": "dart.png"
+    },
+    {
+      "title": "Flutter",
+      "imageSrc": "flutter.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "Java-Logo.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "C.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "JS.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "Python.png"
+    },
+    {
+      "title": ".Net",
+      "imageSrc": "VB.png"
+    }
+    
+  ]

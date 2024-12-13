@@ -1,2 +1,2 @@
 the link for this site is: 
-https://loa-basic-photography-finals.netlify.app/
+(https://genio-basicphotography-finals.netlify.app/)

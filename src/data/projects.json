@@ -1,17 +1,17 @@
 [
     {
       "day":"Day 1",
-      "title": "Theme: Christmas",
+      "title": "Theme: Public Transport Services",
       "imageSrc": "day1a.jpg",
-      "description": "Caption: HOHOHO",
+      "description": "Caption: On the Way",
       "taken":"Taken By: Xyrel Genio"
       
     },
     {
       "day":"Day 1",
-      "title": "Theme: Public Transport Services",
+      "title": "Theme: Christmas",
       "imageSrc": "day1b.jpg",
-      "description": "Caption: On the Way",
+      "description": "Caption: HOHOHO",
       "taken":"Taken By: Xyrel Genio"
       
     },
@@ -20,7 +20,7 @@
       "title": "Theme: Public Transportation",
       "imageSrc": "day2a.jpeg",
       "description": "Caption: Outside of the box",
-      "taken":"Taken By: Vince Allanigue"
+      "taken":""
       
     },
     {
@@ -28,7 +28,7 @@
       "title": "Theme: Christmas Decor",
       "imageSrc": "day2b.jpeg",
       "description": "Caption: Nightlights",
-      "taken":"Taken By: Vince Allanigue"
+      "taken":""
       
     },
     {

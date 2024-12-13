@@ -20,11 +20,17 @@ export const Navbar = () => {
                 className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
                 onClick={()=> setMenuOpen(false)}>
                     <li>
-                        <a href='#about'>About</a>
+                        <a href='#about'>Members</a>
                     </li>
                    
                     <li>
                         <a href='#projects'>Gallery</a>
+                    </li>
+                    <li>
+                        <a href='#compositions'>Composition</a>
+                    </li>
+                    <li>
+                    <a href="assets/day4a.jpg" target="_blank">Best Photo</a>
                     </li>
                     
             </ul>

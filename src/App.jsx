@@ -6,6 +6,7 @@ import { Navbar } from './components/navbar';
 import { About } from "./components/About/About";
 
 import { Projects } from "./components/Projects/Projects";
+import { Composition } from "./components/Composition/Composition";
 
 function App() {
   
@@ -17,6 +18,7 @@ function App() {
       <About />
       
       <Projects/>
+      <Composition/>
       
     </div>
   )

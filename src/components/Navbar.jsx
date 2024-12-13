@@ -30,7 +30,7 @@ export const Navbar = () => {
                         <a href='#compositions'>Composition</a>
                     </li>
                     <li>
-                    <a href="assets/day4a.jpg" target="_blank">Best Photo</a>
+                    <a href={getImageUrl("day4a.jpg")} target="_blank">Best Photo</a>
                     </li>
                     
             </ul>
